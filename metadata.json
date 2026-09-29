@@ -1,0 +1,6 @@
+{
+  "name": "SkillGap Analyzer",
+  "description": "AI-powered enterprise workforce intelligence platform for HR and engineering leaders to detect competency gaps, model career paths, and personalize learning plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
